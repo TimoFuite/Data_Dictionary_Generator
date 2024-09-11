@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('mock_data.csv')
+df = pd.read_csv('CSV FILE HERE')
 
 data_dictionary = pd.DataFrame(df.dtypes, columns=['data_type'])
 
